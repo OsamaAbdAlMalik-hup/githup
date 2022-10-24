@@ -8,15 +8,18 @@
              * revert change any time and merge branch and solve conflicts
 
          * operations:
-             * clone: get project :: git clone url
-             *
+             * git clone url: get project
+             * git add file: to add file to staging area  | add . add *
+             * git rm --cached file: to remove file to staging area
+             * git commit -m "message": to move file to local repository
+             * git push remoteName branchName: to move changes branch to remote repository
 
          * helpers:
              * git status: to show status of all files
-             * git add fileName: to add file to staging area  | add . add *
-             * git rm --cached fileName: to remove file to staging area  | add . add *
-             * git commit -m "message": to move file to local repository
-             * git push: to move changes to remote repository
+             * git branch: to show branches of project
+             * git remote: to show remotes name of project
+             * git remote -v: to show remotes name with url of project
+             * git remote -v: to show remotes name with url of project
 
 
          */
