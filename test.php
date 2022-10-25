@@ -42,7 +42,6 @@
              * git stash clear: to remove stash
 
 
-          
              * git remote: to show remotes name of project
              * git remote -v: to show remotes name with url of project
              * git remote -v: to show remotes name with url of project
@@ -51,11 +50,6 @@
 
 
 
-         * common:
-             * cd <url>: change directory
-             * mkdir <url>: make directory
-             * touch <file>: create file
-             * touch: create file
          * common:
              * cd <url>: change directory
              * mkdir <url>: make directory
