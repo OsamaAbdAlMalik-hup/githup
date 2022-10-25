@@ -29,5 +29,10 @@
              * mkdir <url>: make directory
              * touch <file>: create file
              * touch: create file
+         * common:
+             * cd <url>: change directory
+             * mkdir <url>: make directory
+             * touch <file>: create file
+             * touch: create file
 
          */
