@@ -28,6 +28,13 @@
              * git branch -d <branchName>: to delete branch  but not delete if exist changes not merge
              * git merge <branchName>: to merge branchName with current branch
 
+             * git stash: to save files that exist in stage area in stash to be invisible
+             * git stash save "name": to save files that exist in stage with name
+             * git stash list: to show invisible files
+             * git stash list stash@{i}: to show file in {i}
+             * git stash pop: to remove invisible files from stash
+             * git stash apply: to remove invisible files from stash
+        
              * git remote: to show remotes name of project
              * git remote -v: to show remotes name with url of project
              * git remote -v: to show remotes name with url of project
